@@ -18,7 +18,7 @@ library.
 go install github.com/kenaqshal/chbs@latest
 ```
 
-Needs Go 1.27.1 or newer. From a checkout, `go build` is enough.
+Needs Go 1.24 or newer. From a checkout, `go build` is enough.
 
 ## Usage
 
